@@ -1,4 +1,4 @@
-print """The Zen of Python, by Tim Peters
+print """The Zen of Python, por Tim Peters e bulido por Luan Fonseca
 
 Aprumado é melhor que entrouxado. Beautiful is better than ugly.
 Na fuça é melhor que intocado. Explicit is better than implicit.
