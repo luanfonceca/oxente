@@ -1,7 +1,7 @@
 print """The Zen of Python, por Tim Peters e bulido por Luan Fonseca
 
-Aprumado é melhor que entrouxado. Beautiful is better than ugly.
-Na fuça é melhor que intocado. Explicit is better than implicit.
+Aprumado é melhor que entrouxado.
+Na fuça é melhor que intocado.
 Simple is better than complex.
 Complex is better than complicated.
 Flat is better than nested.
@@ -16,6 +16,6 @@ There should be one-- and preferably only one --obvious way to do it.
 Although that way may not be obvious at first unless you're Dutch.
 Nestante é melhor que de hoje a quinze. Now is better than never.
 Although never is often better than *right* now.
-Se o muído for caixão de contar, é bronca. If the implementation is hard to explain, it's a bad idea.
-Se o muído for fichinha de contar, é só o mi. If the implementation is easy to explain, it may be a good idea.
+Se o muído for caixão de contar, é bronca.
+Se o muído for fichinha de contar, é só o mi.
 Namespaces are one honking great idea -- let's do more of those!"""
