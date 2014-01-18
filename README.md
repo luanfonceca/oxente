@@ -1,7 +1,7 @@
 Oxente
 ======
 
-Tradução do módulo "this" do python para PT-BR-NE (Português brasileiro nordestino)
+Tradução do módulo `this` do Python para PT-BR-NE (Português brasileiro nordestino)
 
 Instalar
 =======
