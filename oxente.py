@@ -20,5 +20,5 @@ Although that way may not be obvious at first unless you're Dutch.
 Nestante é melhor que de hoje a quinze.
 Although never is often better than *right* now.
 Se o muído for caixão de contar, é bronca.
-Se o muído for fichinha de contar, é só o mi.
+Se o muído for mamada de contar, é só o mi.
 Namespaces are one honking great idea -- let's do more of those!"""
