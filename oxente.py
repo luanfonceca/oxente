@@ -5,8 +5,8 @@ print """O Cordel do Python, por Tim Peters e bulido por Luan Fonseca
 
 Aprumado é melhor que entrouxado.
 Na fuça é melhor que intocado.
-Simple is better than complex.
-Complex is better than complicated.
+Sem arrudeio é melhor que de rosca.
+De rosca é melhor que um nó cego.
 Flat is better than nested.
 Sparse is better than dense.
 Readability counts.
