@@ -12,7 +12,7 @@ Sparse is better than dense.
 Readability counts.
 Special cases aren't special enough to break the rules.
 Although practicality beats purity.
-Errors should never pass silently.
+Vacilos tem que ser caguetados.
 Unless explicitly silencwed.
 In the face of ambiguity, refuse the temptation to guess.
 There should be one-- and preferably only one --obvious way to do it.
