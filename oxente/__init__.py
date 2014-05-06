@@ -7,8 +7,8 @@ Aprumado é melhor que entrouxado.
 Na fuça é melhor que intocado.
 Sem arrudeio é melhor que de rosca.
 De rosca é melhor que um nó cego.
-Flat is better than nested.
-Sparse is better than dense.
+Daqui prali é melhor que esbuguelado
+Espaiado é melhor que chei de guéri-guéri
 Readability counts.
 Special cases arent special enough to break the rules.
 Although practicality beats purity.
