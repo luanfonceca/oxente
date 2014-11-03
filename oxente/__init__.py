@@ -10,11 +10,13 @@ De rosca é melhor que um nó cego.
 Daqui prali é melhor que esbuguelado.
 Espaiado é melhor que chei de guéri-guéri.
 Readability counts.
-Special cases arent special enough to break the rules.
+Esses casos cheio de rififi num vale o peido duma gaja mijada.
 Although practicality beats purity.
 Vacilos tem que ser caguetados.
 Ou pelo menos vacile direito.
 Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
+Deve ter um jeito -- e sem muído -- de fazer uma resenha.
+Pode ser que num teje claro, mai num seje abestado.
 There should be one-- and preferably only one --obvious way to do it.
 Although that way may not be obvious at first unless you're Dutch.
 Nestante é melhor que de hoje a quinze.
