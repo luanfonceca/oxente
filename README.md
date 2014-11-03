@@ -18,7 +18,7 @@ Readability counts.
 Special cases arent special enough to break the rules.
 Although practicality beats purity.
 Vacilos tem que ser caguetados.
-Unless explicitly silencwed.
+Ou pelo menos vacile direito.
 Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
 There should be one-- and preferably only one --obvious way to do it.
 Although that way may not be obvious at first unless you're Dutch.
