@@ -17,8 +17,6 @@ Ou pelo menos vacile direito.
 Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
 Deve ter um jeito -- e sem muído -- de fazer uma resenha.
 Pode ser que num teje claro, mai num seje abestado.
-There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you're Dutch.
 Nestante é melhor que de hoje a quinze.
 Mas de hoje a quinze é melhor que *nas carrera*.
 Se o muído for caixão de contar, é bronca.
