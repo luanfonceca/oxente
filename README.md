@@ -21,7 +21,7 @@ Vacilos tem que ser caguetados.
 Ou pelo menos vacile direito.
 Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
 There should be one-- and preferably only one --obvious way to do it.
-Mais esse jeitim pode num tá na frente do seu nariz de início, a num ser que você seja das zoropa.
+Mais esse jeitim pode num tá na frente da sua venta de início, a num ser que você seja das zoropa.
 Nestante é melhor que de hoje a quinze.
 Although never is often better than *right* now.
 Se o muído for caixão de contar, é bronca.
