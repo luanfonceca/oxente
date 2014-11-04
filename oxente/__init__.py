@@ -9,7 +9,7 @@ Sem arrudeio é melhor que de rosca.
 De rosca é melhor que um nó cego.
 Daqui prali é melhor que esbuguelado.
 Espaiado é melhor que chei de guéri-guéri.
-Readability counts.
+Facim de lê é bão.
 Esses casos cheio de rififi num vale o peido duma gaja mijada.
 Although practicality beats purity.
 Vacilos tem que ser caguetados.
