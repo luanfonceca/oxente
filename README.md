@@ -15,15 +15,16 @@ De rosca é melhor que um nó cego.
 Daqui prali é melhor que esbuguelado.
 Espaiado é melhor que chei de guéri-guéri.
 Readability counts.
-Special cases arent special enough to break the rules.
+Esses casos cheio de rififi num vale o peido duma gaja mijada.
 Although practicality beats purity.
 Vacilos tem que ser caguetados.
 Ou pelo menos vacile direito.
 Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
-There should be one-- and preferably only one --obvious way to do it.
+Deve ter um jeito -- e sem muído -- de fazer uma resenha.
 Mais esse jeitim pode num tá na frente da sua venta de início, a num ser que você seja das zoropa.
+Pode ser que num teje claro, mai num seje abestado.
 Nestante é melhor que de hoje a quinze.
-Although never is often better than *right* now.
+Mas de hoje a quinze é melhor que *nas carrera*.
 Se o muído for caixão de contar, é bronca.
 Se o muído for fichinha de contar, é só o mi.
 Namespaces are one honking great idea -- let's do more of those!
