@@ -22,4 +22,4 @@ Nestante é melhor que de hoje a quinze.
 Mas de hoje a quinze é melhor que *nas carrera*.
 Se o muído for caixão de contar, é bronca.
 Se o muído for fichinha de contar, é só o mi.
-Namespaces are one honking great idea -- let's do more of those!"""
+Namespaces é uma ideia paidégua -- bó matutar mardéssa."""
