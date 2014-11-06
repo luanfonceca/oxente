@@ -13,7 +13,7 @@ Facim de lê é bão.
 Esses casos cheio de rififi num vale o peido duma gaja mijada.
 Although practicality beats purity.
 Vacilos tem que ser caguetados.
-Ou pelo menos vacile direito.
+Umeno vacile direito.
 Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
 Deve ter um jeito -- e sem muído -- de fazer uma resenha.
 Mais esse jeitim pode num tá na frente da sua venta de início, a num ser que você seja das zoropa.
