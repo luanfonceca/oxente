@@ -11,7 +11,7 @@ Linherim é melhor que esbuguelado.
 Espaiado é melhor que chei de guéri-guéri.
 Facim de lê é bão.
 Esses casos cheio de rififi num vale o peido duma gaja mijada.
-Although practicality beats purity.
+Desenrolado é melhor do que donzelo.
 Vacilos tem que ser caguetados.
 Umeno vacile direito.
 Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
