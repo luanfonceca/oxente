@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-print """O Cordel do Python, por Tim Peters e bulido por Luan Fonseca
+from __future__ import print_function
+
+print("""O Cordel do Python, por Tim Peters e bulido por Luan Fonseca
 
 Aprumado é melhor do que troncho.
 Nas fuça é melhor que intocado.
@@ -22,4 +24,4 @@ Nes'tante é melhor que de hoje a quinze.
 Mas de hoje a quinze é melhor que *nas carrêra*.
 Se o muído for caixão de contar, é bronca.
 Se der pra contar o muído ligêro, é só o mi.
-Apartar os nomes é uma ideia pai d'égua -- bó matutar mardéssa."""
+Apartar os nomes é uma ideia pai d'égua -- bó matutar mardéssa.""")
