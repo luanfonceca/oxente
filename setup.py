@@ -4,7 +4,8 @@
 from setuptools import setup
 
 try:
-    long_description = file('README.rst').read()
+    with open('README.rst') as f:
+        long_description = f.read()
 except IOError:
     long_description = ''
 
